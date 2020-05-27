@@ -12,7 +12,8 @@ let controller = function() {
       //$new_comment.fadeIn();
       $(".comment-input input").val("");
       //log the list of paragraph elements
-      console.log($("comments").html());
+      localStorage.setItem("toDoList", $(".comments").html());
+      console.log(localStorage.getitem("toDoList"));
     }
   };
 
