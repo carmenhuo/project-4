@@ -6,7 +6,7 @@ In the 21st century, every business– from fashion to finance– is a tech comp
 
 # [CIT 281 Project 4](https://github.com/UO-CIT/project-4-carmenhuo)
 
-## Learning Objectives
+## Learning Objectives:
 
 - Build a To-Do app that uses the Web Storage API
 - The Web Storage API lets browsers store key/value pairs locally, to create a persistent data store
@@ -15,7 +15,7 @@ In the 21st century, every business– from fashion to finance– is a tech comp
 
 # [CIT 281 Project 3](https://github.com/UO-CIT/project-3-carmenhuo)
 
-## Learning Objectives
+## Learning Objectives:
 
 - A web API or Application Programming Interfaceis an API accessed using the HTTP protocol. Web APIs often deliver data formatted as JSON.
 - A web API can be accessed programmatically using JavaScript. The API documentation must first be consulted in order to understand how the API works and what it returns.
@@ -26,7 +26,7 @@ In the 21st century, every business– from fashion to finance– is a tech comp
 
 # [CIT 281 Project 2](https://github.com/UO-CIT/project-2-carmenhuo)
 
-## Learning Objectives
+## Learning Objectives:
 
 - A web API or Application Programming Interfaceis an API accessed using the HTTP protocol.
 - Web APIs often deliver data formatted as JSON.
@@ -36,7 +36,7 @@ In the 21st century, every business– from fashion to finance– is a tech comp
 
 # [CIT 281 Project 1](https://github.com/UO-CIT/project-1-carmenhuo)
 
-## Learning Objectives
+## Learning Objectives:
 
 - Basic Unix Shell commands
 - Install and Configure Git using the Unix Shell
